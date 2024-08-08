@@ -1,0 +1,39 @@
+body {
+    background-image: url('./background.jpg');
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-items: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 150px;
+}
+
+.container {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-berikut-halaman-berita {
+    width: 100%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background-color: black;
+    transform: translateY(-15px);
+}

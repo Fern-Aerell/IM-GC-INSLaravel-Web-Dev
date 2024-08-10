@@ -4,6 +4,8 @@
 
 <p align="center">Ini adalah tugas dari kursus Laravel batch 13 kelas umum dari Garuda Cyber Institute.</p>
 
+## Minggu Ke-1
+
 | Hari | Tugas                           |
 |:----:|---------------------------------|
 | 1    | [Belajar HTML](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_1_html) |

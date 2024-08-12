@@ -15,7 +15,7 @@
 
 <body>
     <div class="container">
-        <nav class="navbar navbar-light bg-light">
+        <nav class="navbar navbar-light bg-light sticky-top">
             <a class="navbar-brand">Mini Ecommerce</a>
             <form class="form-inline" id="formItem">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" id="keyword" aria-label="Search">
@@ -97,7 +97,7 @@
             listBarang.innerHTML = '';
             items.forEach((item) => {
                 if(
-                    search.length != '' && 
+                    search != '' && 
                     !item.nama.toLowerCase().includes(search) &&
                     !item.deskripsi.toLowerCase().includes(search) &&
                     !item.harga.toLowerCase().includes(search)

@@ -14,3 +14,4 @@
 | 4    | [Belajar Command Line dan Git](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_4_git) |
 | 5    | [Belajar Javascript Dasar](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_5_javascript_dasar) |
 | 6    | [Belajar Javascript DOM](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_6_javascript_dom)
+| 7    | [Belajar PHP Dasar](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_7_php_dasar)

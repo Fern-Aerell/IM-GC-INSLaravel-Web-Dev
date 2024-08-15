@@ -20,3 +20,4 @@
 | 6    | [Belajar Javascript DOM](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_6_javascript_dom)
 | 7    | [Belajar PHP Dasar](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_7_php_dasar)
 | 8    | [Belajar PHP Dasar 2](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_8_php_dasar_2)
+| 9    | [Belajar PHP OOP](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_9_php_oop)

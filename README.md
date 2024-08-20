@@ -27,3 +27,4 @@
 | Hari | Tugas                           |
 |:----:|---------------------------------|
 | 11    | [Belajar ERD](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_11_belajar_erd)
+| 12    | [Belajar Laravel](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_12_intro_laravel)

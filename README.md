@@ -27,4 +27,6 @@
 | Hari | Tugas                           |
 |:----:|---------------------------------|
 | 11    | [Belajar ERD](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_11_belajar_erd)
-| 12    | [Belajar Laravel](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_12_intro_laravel)
+| 12    | [Belajar Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/0a1656ca6d22e7d42e1434ce1b92ec4849138d80)
+| 13    | [Belajar Template Blade Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d8b8e35587a27c33e73fbbb97481ebdd173296fd)
+| 14    | [Belajar Migration Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d283240d2e636115c9e28f726ccf66e9c117aa1f)

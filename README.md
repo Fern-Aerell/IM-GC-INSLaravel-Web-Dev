@@ -1,33 +1,33 @@
 # IM-GC-INSLaravel-Web-Dev
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://garudacyberinstitute.id/_include/archives/files/martikulasi/kategori/Laravel%20Batch%2013%20Kelas%20Umum.18%20-%20Gambar%20Pratinjau.png" width="200" alt="Laravel Logo"></a></p>
+This is an assignment from the Laravel batch 13 general class at Garuda Cyber Institute.
 
-<p align="center">Ini adalah tugas dari kursus Laravel batch 13 kelas umum dari Garuda Cyber Institute.</p>
+## Week 1
 
-## Minggu Ke-1
-
-| Hari | Tugas                           |
+| Day  | Task                           |
 |:----:|---------------------------------|
-| 1    | [Belajar HTML](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_1_html) |
-| 2    | [Belajar CSS](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_2_css) |
-| 3    | [Belajar Bootstrap](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_3_bootstrap) |
-| 4    | [Belajar Command Line dan Git](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_4_git) |
-| 5    | [Belajar Javascript Dasar](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_5_javascript_dasar) |
+| 1    | [Learning HTML](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_1_html) |
+| 2    | [Learning CSS](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_2_css) |
+| 3    | [Learning Bootstrap](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_3_bootstrap) |
+| 4    | [Learning Command Line and Git](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_4_git) |
+| 5    | [Learning Basic JavaScript](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_5_javascript_dasar) |
 
-## Minggu Ke-2
-| Hari | Tugas                           |
-|:----:|---------------------------------|
-| 6    | [Belajar Javascript DOM](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_6_javascript_dom)
-| 7    | [Belajar PHP Dasar](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_7_php_dasar)
-| 8    | [Belajar PHP Dasar 2](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_8_php_dasar_2)
-| 9    | [Belajar PHP OOP](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_9_php_oop)
-| 10    | [Belajar SQL](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_10_belajar_sql)
+## Week 2
 
-## Minggu Ke-3
-| Hari | Tugas                           |
+| Day  | Task                           |
 |:----:|---------------------------------|
-| 11    | [Belajar ERD](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_11_belajar_erd)
-| 12    | [Belajar Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/0a1656ca6d22e7d42e1434ce1b92ec4849138d80)
-| 13    | [Belajar Template Blade Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d8b8e35587a27c33e73fbbb97481ebdd173296fd)
-| 14    | [Belajar Migration Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d283240d2e636115c9e28f726ccf66e9c117aa1f)
-| 15    | [Belajar CRUD dengan query builder](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/6b1041df3cfbe4a4fc5ae9644e571e0038fc628d)
+| 6    | [Learning JavaScript DOM](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_6_javascript_dom) |
+| 7    | [Learning Basic PHP](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_7_php_dasar) |
+| 8    | [Learning Basic PHP 2](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_8_php_dasar_2) |
+| 9    | [Learning PHP OOP](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_9_php_oop) |
+| 10   | [Learning SQL](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_10_belajar_sql) |
+
+## Week 3
+
+| Day  | Task                           |
+|:----:|---------------------------------|
+| 11   | [Learning ERD](https://github.com/Fern-Aerell/IM-GC-INSLaravel-Web-Dev/tree/main/day_11_belajar_erd) |
+| 12   | [Learning Laravel](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/0a1656ca6d22e7d42e1434ce1b92ec4849138d80) |
+| 13   | [Learning Laravel Blade Template](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d8b8e35587a27c33e73fbbb97481ebdd173296fd) |
+| 14   | [Learning Laravel Migration](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/d283240d2e636115c9e28f726ccf66e9c117aa1f) |
+| 15   | [Learning CRUD with Query Builder](https://github.com/Fern-Aerell/intro-laravel---fern-aerell/tree/6b1041df3cfbe4a4fc5ae9644e571e0038fc628d) |
